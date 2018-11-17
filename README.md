@@ -6,8 +6,8 @@
 
 - [x] Hello World
 - [x] Values
-- [ ] Variables
-- [ ] Constants
+- [x] Variables
+- [x] Constants
 - [ ] For
 - [ ] If/Else
 - [ ] Switch
