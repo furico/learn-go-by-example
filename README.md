@@ -8,7 +8,7 @@
 - [x] Values
 - [x] Variables
 - [x] Constants
-- [ ] For
+- [x] For
 - [ ] If/Else
 - [ ] Switch
 - [ ] Arrays
