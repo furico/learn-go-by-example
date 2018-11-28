@@ -10,8 +10,8 @@
 - [x] Constants
 - [x] For
 - [x] If/Else
-- [ ] Switch
-- [ ] Arrays
+- [x] Switch
+- [x] Arrays
 - [ ] Slices
 - [ ] Maps
 - [ ] Range
