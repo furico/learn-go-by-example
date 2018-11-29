@@ -12,8 +12,8 @@
 - [x] If/Else
 - [x] Switch
 - [x] Arrays
-- [ ] Slices
-- [ ] Maps
+- [x] Slices
+- [x] Maps
 - [ ] Range
 - [ ] Functions
 - [ ] Multiple Return Values
