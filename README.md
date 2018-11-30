@@ -16,8 +16,8 @@
 - [x] Maps
 - [x] Range
 - [x] Functions
-- [ ] Multiple Return Values
-- [ ] Variadic Functions
+- [x] Multiple Return Values
+- [x] Variadic Functions
 - [ ] Closures
 - [ ] Recursion
 - [ ] Pointers
