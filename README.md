@@ -14,8 +14,8 @@
 - [x] Arrays
 - [x] Slices
 - [x] Maps
-- [ ] Range
-- [ ] Functions
+- [x] Range
+- [x] Functions
 - [ ] Multiple Return Values
 - [ ] Variadic Functions
 - [ ] Closures
