@@ -18,8 +18,8 @@
 - [x] Functions
 - [x] Multiple Return Values
 - [x] Variadic Functions
-- [ ] Closures
-- [ ] Recursion
+- [x] Closures
+- [x] Recursion
 - [ ] Pointers
 - [ ] Structs
 - [ ] Methods
